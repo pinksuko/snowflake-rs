@@ -1,8 +1,9 @@
 [package]
 name = "rs-snowflake"
 version = "0.6.0"
+authors = ["BinChengZhao <binchengZhao@outlook.com>"]
 edition = "2024"
-repository = "https://github.com/pinksuko/snowflake-rs.git"
+repository = "https://github.com/BinChengZhao/snowflake-rs.git"
 documentation = "https://docs.rs/rs-snowflake"
 readme = "README.md"
 description = "Rust version of the Twitter snowflake algorithm."
